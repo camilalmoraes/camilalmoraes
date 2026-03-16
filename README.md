@@ -1,58 +1,87 @@
-👋 Olá, sou Camila Louzada.
+# 👋 Olá! Eu sou Camila Louzada
 
-🔎 Atuo na área de **QA (Quality Assurance)**.
+Sou uma profissional apaixonada por **Qualidade de Software** e atuo como **Quality Assurance Analyst (QA)**.
 
-💻 Tenho experiência com **testes manuais, testes automatizados, validação de sistemas, análise de cenários críticos, anáslise de causa raiz e garantia de qualidade em aplicações web, mobile e desktop**.
+Minha atuação é guiada por um perfil **analítico e investigativo**, sempre focado em garantir que produtos cheguem ao usuário final com **estabilidade, consistência e aderência às regras de negócio**.
 
-📚 Estou sempre buscando evoluir em **automação de testes, estratégias de qualidade e melhoria contínua de processos de QA**.
+Ao longo da minha trajetória em QA, atuo na **validação de sistemas com regras de negócio complexas**, contribuindo para a **identificação de riscos, melhoria dos processos de teste e evolução da qualidade dos produtos**.
 
-🎓 Formação em **Ciência da Computação**.
+Tenho experiência em **ambientes ágeis**, colaborando com times de **desenvolvimento e produto desde a análise de requisitos até a validação das entregas**.
 
-🚀 Interesses principais:
+Acredito que qualidade não é apenas testar, mas **colaborar com todo o time para construir produtos mais confiáveis, consistentes e alinhados às necessidades do usuário**.
 
-* Qualidade de software
-* Automação de testes
-* Estratégia de testes
-* Melhoria contínua de processos de QA
+---
 
-# 🧰 Ferramentas
+# 🧩 Principais Competências
 
-![Jira](https://img.shields.io/badge/Jira-grey)
-![Qase](https://img.shields.io/badge/Qase-grey)
-![Postman](https://img.shields.io/badge/Postman-grey)
-![Git](https://img.shields.io/badge/Git-grey)
-![GitHub](https://img.shields.io/badge/GitHub-grey)
-![Cypress](https://img.shields.io/badge/Cypress-grey)
+### 🧪 Modelagem de Cenários e Casos de Teste
+Criação de cenários estruturados utilizando **BDD / Gherkin**, garantindo maior cobertura de testes e clareza na validação das funcionalidades.
 
-⭐ Outros:
+### 🔎 Execução de Testes
+Execução de **testes funcionais, regressivos, exploratórios e smoke**, assegurando a estabilidade das releases.
 
-TestLink • Swagger
+### 🐞 Investigação e Gestão de Defeitos
+Investigação, reprodução e registro estruturado de **bugs**, apoiando equipes de desenvolvimento na identificação e resolução de problemas.
 
-# 🚀 Hard Skills
+### 📊 Validação Técnica e Análise de Dados
+Utilização de **SQL e PL/SQL** para análise de dados e validação da consistência das informações no sistema.
 
-HTML • SQL • HTML • REST API • Testes de API
+### 🔗 Testes de Integração e APIs
+Validação de **endpoints e integrações utilizando Swagger**, garantindo integridade nas comunicações entre sistemas.
 
-# 🧠 Habilidades e metodologias
+### 🤖 Automação de Testes
+Evolução contínua em **automação de testes com Cypress**, buscando ampliar cobertura e eficiência nos ciclos de teste.
 
-Testes Manuais
-Testes Automatizados
-BDD
-Planejamento de Testes
-Criação de Cenários e Casos de Teste
-Documentação e Reporte de Bugs
-Testes de Regressão
-Smoke Testing
-Testes de Integração
-Testes de API
-Testes de Usabilidade
-Sistema Financeiro
-Sistema de Gestão escolar
+---
 
-Metodologias Ágeis
-Scrum • Kanban
+# 🛠 Ferramentas
 
-Qualidade de Software
-Estratégia de Testes • Análise de Requisitos • Métricas de Qualidade • Shift Left Testing
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
+
+Ferramentas utilizadas no processo de QA:
+
+Jira • Qase • Confluence • Cypress • Swagger • Postman • Git • GitHub
+
+---
+
+# 🧠 Práticas de Qualidade
+
+- Modelagem de cenários de teste  
+- Criação de casos de teste estruturados  
+- Análise de requisitos e regras de negócio  
+- Estratégia e planejamento de testes  
+- Documentação de testes  
+- Reporte e acompanhamento de bugs  
+- Testes de regressão  
+- Smoke testing  
+- Testes exploratórios  
+- Testes de integração  
+- Testes de API  
+
+---
+
+# 🤝 Trabalho em Times Ágeis
+
+Experiência atuando em times que utilizam **Scrum**, participando ativamente de:
+
+- Refinamentos
+- Plannings
+- Reviews
+- Retrospectivas
+
+Sempre com foco na **melhoria contínua da qualidade e evolução dos processos de QA**.
+
+---
 
 # 📫 Contato
 
