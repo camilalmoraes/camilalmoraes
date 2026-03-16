@@ -30,7 +30,6 @@ Evoluindo em automação **E2E com Cypress**.
 
 ---
 
-## 🛠 Ferramentas
 # 🛠 Ferramentas
 
 <p>
