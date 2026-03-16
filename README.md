@@ -30,11 +30,7 @@ TestLink • Swagger
 
 # 🚀 Hard Skills
 
-HTML • SQL
-
-⭐ Outros:
-
-HTML • REST API • Testes de API
+HTML • SQL • HTML • REST API • Testes de API
 
 # 🧠 Habilidades e metodologias
 
@@ -49,13 +45,13 @@ Smoke Testing
 Testes de Integração
 Testes de API
 Testes de Usabilidade
+Sistema Financeiro
+Sistema de Gestão escolar
 
 Metodologias Ágeis
-
 Scrum • Kanban
 
 Qualidade de Software
-
 Estratégia de Testes • Análise de Requisitos • Métricas de Qualidade • Shift Left Testing
 
 # 📫 Contato
