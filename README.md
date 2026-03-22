@@ -34,51 +34,29 @@ Tenho experiência na criação de cenários de teste, execução E2E, validaç�
 
 ---
 
-### 🧪 Automação de Testes Web — Cypress (Webdojo)
+## 🧪 Automação de Testes Web — Cypress (Webdojo)
 
 **Projeto prático de QA focado na automação de testes end-to-end em aplicação web, validando fluxos críticos e comportamento da interface.**
 
----
-
-### 🎯 Escopo
+# 🎯 Escopo
 
 UI (Web) · Testes End-to-End  
 Login · Validação de formulários · Validação de Forms
 
----
+# 🧠 Atividades
 
-### 🧠 Atividades
-
-- Definição e execução de cenários de teste end-to-end
-- Validação de regras de negócio em fluxos de autenticação e cadastro
-- Testes funcionais e exploratórios baseados no comportamento do usuário
+- Definição de cenários de teste end-to-end
 - Identificação e validação de mensagens de erro e inconsistências de interface
 - Estruturação de testes com foco em reutilização e manutenção
-
----
-
-### ⚙️ Tecnologias
-
-Cypress · JavaScript · Node.js · Faker · GitHub  
-
----
-
-### 🎓 Automação de Testes E2E (Cypress)
-
-**Escopo:**
-- Testes end-to-end
-- Fluxo de login, cadastro e compra
-
-**Atividades:**
 - Criação de cenários BDD
 - Automação com Page Objects
 - Geração de dados dinâmicos
 - Uso de fixtures
 - Interação com wireframes
 
-**Tecnologias:**
-- Cypress | JavaScript | Node.js | GitHub Actions
+# ⚙️ Tecnologias
 
+Cypress · JavaScript · Node.js · Faker · GitHub  
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/camila-louzada/])
