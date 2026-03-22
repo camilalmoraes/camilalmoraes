@@ -15,13 +15,18 @@ Tenho experiência na criação de cenários de teste, execução E2E, validaç�
 
 ## 🚀 Linguagens, Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
+
+![Qase](https://img.shields.io/badge/-Qase-black?style=flat-square)
+![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
 
 ---
 
