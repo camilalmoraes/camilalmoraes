@@ -3,7 +3,7 @@
 Analista de Qualidade | Testes Manuais | Testes Automatizados | BDD | Gherkin | Cypress | Qase | Jira | SQL | Agile | Fluxos Financeiros | Mobile | Git | Acessibilidade | Postman | K6
 ---
 
-## 👩‍💻 Sobre mim
+### 👩‍💻 Sobre mim
 
 Sou Analista de Qualidade (QA) com perfil analítico e investigativo, focada em garantir que sistemas atendam às regras de negócio com consistência e qualidade.
 
@@ -13,7 +13,7 @@ Tenho experiência na criação de cenários de teste, execução E2E, validaç�
 
 ---
 
-## 🚀 Linguagens, Tecnologias e Ferramentas
+### 🚀 Linguagens, Tecnologias e Ferramentas
 
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,21 +30,17 @@ Tenho experiência na criação de cenários de teste, execução E2E, validaç�
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 ---
 
-## 🧪 Automação de Testes Web — Cypress (Webdojo)
+### 🧪 Automação de Testes Web — Cypress (Webdojo)
 
 **Projeto prático de QA focado na automação de testes end-to-end em aplicação web, validando fluxos críticos e comportamento da interface.**
-
-# 🎯 Escopo
-
+#### 🎯 Escopo
 UI (Web) · Testes End-to-End  
 Login · Validação de formulários · Validação de Forms
-
-# 🧠 Atividades
-
+#### 🧠 Atividades
 - Definição de cenários de teste end-to-end
 - Identificação e validação de mensagens de erro e inconsistências de interface
 - Estruturação de testes com foco em reutilização e manutenção
@@ -53,11 +49,9 @@ Login · Validação de formulários · Validação de Forms
 - Geração de dados dinâmicos
 - Uso de fixtures
 - Interação com wireframes
-
-# ⚙️ Tecnologias
-
+#### ⚙️ Tecnologias
 Cypress · JavaScript · Node.js · Faker · GitHub  
 
-## 📫 Contato
+### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/camila-louzada/])
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](clouzadamoraes@gmail.com)
