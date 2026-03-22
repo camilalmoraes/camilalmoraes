@@ -22,7 +22,6 @@ Tenho experiência na criação de cenários de teste, execução E2E, validaç�
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
 ![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
 
 ![Qase](https://img.shields.io/badge/-Qase-black?style=flat-square)
