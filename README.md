@@ -23,6 +23,8 @@ Tenho experiência na criação de cenários de teste, execução E2E, validaç�
 
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![k6](https://img.shields.io/badge/-k6-black?style=flat-square&logo=k6)
+![PactumJS](https://img.shields.io/badge/-PactumJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ![Qase](https://img.shields.io/badge/-Qase-black?style=flat-square)
 ![Confluence](https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence)
