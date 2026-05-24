@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Camila Louzada
 
-Analista de Qualidade | Testes Manuais | Testes Automatizados | BDD | Gherkin | Cypress | Qase | Jira | SQL | Agile | Fluxos Financeiros | Mobile | Git | Acessibilidade | Postman | K6
+Analista de Qualidade | Testes Manuais | Testes Automatizados | BDD | Gherkin | Cypress | WebdriverIO | PactumJS | ClickUp | Qase | Jira | SQL | Agile | Fluxos Financeiros | Mobile | Git | Acessibilidade | Postman | K6
 ---
 
 ### 👩‍💻 Sobre mim
